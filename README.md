@@ -1611,6 +1611,18 @@ For more information, check out our [paper](https://arxiv.org/abs/2410.17218).
 
     <u>Proceedings of the CHI Conference on Human Factors in Computing Systems.</u> 2023
 
+1. **[A Confederacy of Models: a Comprehensive Evaluation of LLMs on Creative Writing](https://aclanthology.org/2023.findings-emnlp.966/)**
+
+    *Carlos Gómez-Rodríguez, Paul Williams*
+
+    <u>Findings of the Association for Computational Linguistics: EMNLP</u> 2023
+
+1. **[The Next Chapter: A Study of Large Language Models in Storytelling](https://aclanthology.org/2023.inlg-main.23/)**
+
+    *Zhuohan Xie, Trevor Cohn, Jey Han Lau*
+
+    <u>Proceedings of the 16th International Natural Language Generation Conference</u> 2023
+
 1. **[Dialogues: The Science and Power of Storytelling](https://www.jneurosci.org/content/38/44/9468)**
 
     *Wendy A. Suzuki, M{\'o}nica I. Feli{\'u}-M{\'o}jer, Uri Hasson, Rachel Yehuda, Jean Mary Zarate*
