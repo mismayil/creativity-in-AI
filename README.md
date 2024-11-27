@@ -349,6 +349,12 @@ For more information, check out our [paper](https://arxiv.org/abs/2410.17218).
 
     <u>ArXiv.</u> 2024
 
+1. **[What makes a good story and how can we measure it? a comprehensive survey of story evaluation](https://www.arxiv.org/abs/2408.14622)**
+
+    *Dingyi Yang, Qin Jin*
+
+    <u>ArXiv.</u> 2024
+
 1. **[Evaluating Computational Creativity: An Interdisciplinary Tutorial](https://doi.org/10.1145/3167476)**
 
     *Carolyn Lamb, Daniel G. Brown, Charles L. A. Clarke*
@@ -1246,6 +1252,12 @@ For more information, check out our [paper](https://arxiv.org/abs/2410.17218).
 
     <u>Scientific Reports.</u> 2024
 
+1. **[{L}at{E}val: An Interactive {LLM}s Evaluation Benchmark with Incomplete Information from Lateral Thinking Puzzles](https://aclanthology.org/2024.lrec-main.889)**
+
+    *Shulin Huang, Shirong Ma, Yinghui Li, Mengzuo Huang, Wuhe Zou, Weidong Zhang, Haitao Zheng*
+
+    <u>Proceedings of the 2024 Joint International Conference on Computational Linguistics,Language Resources and Evaluation (LREC-COLING 2024)</u> 2024
+
 1. **[Assessing and Understanding Creativity in Large Language Models](https://api.semanticscholar.org/CorpusID:267094860)**
 
     *Yunpu Zhao, Rui Zhang, Wenyi Li, Di Huang, Jiaming Guo, Shaohui Peng, Yifan Hao, Yuanbo Wen, Xingui Hu, Zidong Du, Qi Guo, Ling Li, Yunji Chen*
@@ -1587,6 +1599,12 @@ For more information, check out our [paper](https://arxiv.org/abs/2410.17218).
 ## Artistic Creativity
 
 ### Story Generation
+1. **[Evaluating Creative Short Story Generation in Humans and Large Language Models](https://arxiv.org/abs/2411.02316)**
+
+    *Mete Ismayilzada, Claire Stevenson, Lonneke van der Plas*
+
+    <u>ArXiv.</u> 2024
+
 1. **[Pron vs Prompt: Can Large Language Models already Challenge a World-Class Fiction Author at Creative Text Writing?](https://api.semanticscholar.org/CorpusID:270870769)**
 
     *Guillermo Marco, Julio Gonzalo, Ram'on Castillo, Mar'ia Teresa Mateo Girona*
