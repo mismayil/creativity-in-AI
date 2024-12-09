@@ -1264,11 +1264,23 @@ For more information, check out our [paper](https://arxiv.org/abs/2410.17218).
 
     <u>ArXiv.</u> 2024
 
+1. **[Divergent Creativity in Humans and Large Language Models](https://arxiv.org/abs/2405.13012)**
+
+    *Antoine Bellemare-Pepin, François Lespinasse, Philipp Thölke, Yann Harel, Kory Mathewson, Jay A. Olson, Yoshua Bengio, Karim Jerbi*
+
+    <u>ArXiv.</u> 2024
+
 1. **[Best humans still outperform artificial intelligence in a creative divergent thinking task](https://api.semanticscholar.org/CorpusID:261883326)**
 
     *Mika Koivisto, Simone Grassini*
 
     <u>Scientific Reports.</u> 2023
+
+1. **[Artificial muses: Generative Artificial Intelligence Chatbots Have Risen to Human-Level Creativity](https://arxiv.org/abs/2303.12003)**
+
+    *Jennifer Haase, Paul H. P. Hanel*
+
+    <u>Arxiv.</u> 2023
 
 1. **[Pushing GPT’s Creativity to Its Limits: Alternative Uses and Torrance Tests](https://api.semanticscholar.org/CorpusID:260844252)**
 
@@ -1287,6 +1299,12 @@ For more information, check out our [paper](https://arxiv.org/abs/2410.17218).
     *Honghua Chen, Nai Ding*
 
     <u>Conference on Empirical Methods in Natural Language Processing.</u> 2023
+
+1. **[Is artificial intelligence more creative than humans?: ChatGPT and the divergent association task](https://learningletters.org/index.php/learn/article/view/13)**
+
+    *David Cropley*
+
+    <u>Learning Letters.</u> 2023
 
 1. **[BRAINTEASER: Lateral Thinking Puzzles for Large Language Models](https://api.semanticscholar.org/CorpusID:263830212)**
 
@@ -2705,6 +2723,12 @@ For more information, check out our [paper](https://arxiv.org/abs/2410.17218).
     *Yiren Liu, Si Chen, Haocong Cheng, Mengxia Yu, Xiao Ran, Andrew Mo, Yiliu Tang, Yun Huang*
 
     <u>Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems. Association for Computing Machinery.</u> 2024
+
+1. **[How AI Outperforms Humans at Creative Idea Generation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4751779)**
+
+    *Noah Castelo, Zsolt Katona, Peiyao Li, Miklos Sarvary*
+
+    <u>SSRN.</u> 2024
 
 1. **[Ideas are Dimes a Dozen: Large Language Models for Idea Generation in Innovation](https://api.semanticscholar.org/CorpusID:260467886)**
 
