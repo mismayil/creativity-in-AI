@@ -367,6 +367,18 @@ For more information, check out our [paper](https://arxiv.org/abs/2410.17218).
 
     <u>ArXiv.</u> 2024
 
+1. **[On the Creativity of Large Language Models](https://api.semanticscholar.org/CorpusID:257913327)**
+
+    *Giorgio Franceschelli, Mirco Musolesi*
+
+    <u>ArXiv.</u> 2023
+
+1. **[On characterizations of large language models and creativity evaluation](https://computationalcreativity.net/iccc23/papers/ICCC-2023_paper_105.pdf)**
+
+    *Max Peeperkorn, Dan Brown, Anna Jordanous*
+
+    <u>Association for Computational Creativity.</u> 2023
+
 1. **[What makes a good story and how can we measure it? a comprehensive survey of story evaluation](https://www.arxiv.org/abs/2408.14622)**
 
     *Dingyi Yang, Qin Jin*
@@ -2942,6 +2954,12 @@ For more information, check out our [paper](https://arxiv.org/abs/2410.17218).
 
     <u>ArXiv.</u> 2024
 
+1. **[Is Temperature the Creativity Parameter of Large Language Models?](https://arxiv.org/abs/2405.00492)**
+
+    *Max Peeperkorn, Tom Kouwenhoven, Dan Brown, Anna Jordanous*
+
+    <u>ArXiv.</u> 2024
+
 1. **[Locally Typical Sampling](https://aclanthology.org/2023.tacl-1.7/)**
 
     *Clara Meister, Tiago Pimentel, Gian Wiher, Ryan Cotterell*
@@ -3036,22 +3054,3 @@ For more information, check out our [paper](https://arxiv.org/abs/2410.17218).
     *Tuhin Chakrabarty, Vishakh Padmakumar, He He, Nanyun Peng*
 
     <u>Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing: Tutorial Abstracts. Association for Computational Linguistics.</u> 2023
-
-## Other
-1. **[Is Temperature the Creativity Parameter of Large Language Models?](https://arxiv.org/abs/2405.00492)**
-
-    *Max Peeperkorn, Tom Kouwenhoven, Dan Brown, Anna Jordanous*
-
-    <u>ArXiv.</u> 2024
-
-1. **[On the Creativity of Large Language Models](https://api.semanticscholar.org/CorpusID:257913327)**
-
-    *Giorgio Franceschelli, Mirco Musolesi*
-
-    <u>ArXiv.</u> 2023
-
-1. **[On characterizations of large language models and creativity evaluation](https://computationalcreativity.net/iccc23/papers/ICCC-2023_paper_105.pdf)**
-
-    *Max Peeperkorn, Dan Brown, Anna Jordanous*
-
-    <u>Association for Computational Creativity.</u> 2023
