@@ -73,8 +73,8 @@
 </ul>
 </li>
 <li><a href="#poetry">Poetry</a><ul>
-<li><a href="#datasets_1">Datasets</a></li>
-<li><a href="#methods_1">Methods</a></li>
+<li><a href="#datasets-1">Datasets</a></li>
+<li><a href="#methods-1">Methods</a></li>
 </ul>
 </li>
 <li><a href="#visual-creativity">Visual Creativity</a><ul>
@@ -483,11 +483,23 @@ For more information, check out our [paper](https://arxiv.org/abs/2410.17218).
     <u>Journal of Personality and Social Psychology.</u> 1983
 
 #### Automated
+1. **[Do Language Models Enjoy Their Own Stories? Prompting Large Language Models for Automatic Story Evaluation](https://api.semanticscholar.org/CorpusID:269982125)**
+
+    *Cyril Chhun, Fabian M. Suchanek, Chlo{\'e} Clavel*
+
+    <u>Transactions of the Association for Computational Linguistics.</u> 2024
+
 1. **[DeepCreativity: Measuring Creativity with Deep Learning Techniques](https://api.semanticscholar.org/CorpusID:246015719)**
 
     *Giorgio Franceschelli, Mirco Musolesi*
 
     <u>Intelligenza Artificiale.</u> 2022
+
+1. **[Of Human Criteria and Automatic Metrics: A Benchmark of the Evaluation of Story Generation](https://aclanthology.org/2022.coling-1.509)**
+
+    *Cyril Chhun, Pierre Colombo, Fabian M. Suchanek, Chloé Clavel*
+
+    <u>Proceedings of the 29th International Conference on Computational Linguistics.</u> 2022
 
 1. **[Regent-Dependent Creativity: A Domain Independent Metric for the Assessment of Creative Artifacts](https://api.semanticscholar.org/CorpusID:7817742)**
 
@@ -1213,6 +1225,12 @@ For more information, check out our [paper](https://arxiv.org/abs/2410.17218).
 
     <u>ArXiv.</u> 2024
 
+1. **[CreativEval: Evaluating Creativity of LLM-Based Hardware Code Generation](https://arxiv.org/abs/2404.08806)**
+
+    *Matthew DeLorenzo, Vasudev Gohil, Jeyavijayan Rajendran*
+
+    <u>ArXiv.</u> 2024
+
 1. **[MacGyver: Are Large Language Models Creative Problem Solvers?](https://api.semanticscholar.org/CorpusID:265221054)**
 
     *Yufei Tian, Abhilasha Ravichander, Lianhui Qin, Ronan Joseph Le Bras, Raja Marjieh, Nanyun Peng, Yejin Choi, Thomas L. Griffiths, Faeze Brahman*
@@ -1677,11 +1695,11 @@ For more information, check out our [paper](https://arxiv.org/abs/2410.17218).
 
     <u>ArXiv.</u> 2024
 
-1. **[Do Language Models Enjoy Their Own Stories? Prompting Large Language Models for Automatic Story Evaluation](https://api.semanticscholar.org/CorpusID:269982125)**
+1. **[Investigating Wit, Creativity, and Detectability of Large Language Models in Domain-Specific Writing Style Adaptation of Reddit's Showerthoughts](https://aclanthology.org/2024.starsem-1.23.pdf)**
 
-    *Cyril Chhun, Fabian M. Suchanek, Chlo{\'e} Clavel*
+    *Tolga Buz, Benjamin Frost, Nikola Genchev, Moritz Schneider, Lucie-Aimée Kaffee, Gerard de Melo*
 
-    <u>Transactions of the Association for Computational Linguistics.</u> 2024
+    <u>StarSEM.</u> 2024
 
 1. **[Art or Artifice? Large Language Models and the False Promise of Creativity](https://api.semanticscholar.org/CorpusID:262826094)**
 
@@ -3041,6 +3059,12 @@ For more information, check out our [paper](https://arxiv.org/abs/2410.17218).
     *Giorgio Franceschelli, Mirco Musolesi*
 
     <u>ArXiv.</u> 2021
+
+1. **[A Survey on Large Language Model Hallucination via a Creativity Perspective](https://arxiv.org/abs/2402.06647)**
+
+    *Xuhui Jiang, Yuxing Tian, Fengrui Hua, Chengjin Xu, Yuanzhuo Wang, Jian Guo*
+
+    <u>ArXiv.</u> 2024
 
 1. **[Creativity: a survey of AI approaches](https://api.semanticscholar.org/CorpusID:13433112)**
 
