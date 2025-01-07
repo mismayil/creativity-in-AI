@@ -7,7 +7,7 @@
 <h1 align="center">Creativity in AI: Progresses and Challenges</h1>
 
 <p align="center">
-    <b>Curated collection of papers and resources on the state of creativity in AI (as of Nov 2024)</b>
+    <b>Curated collection of papers and resources on the state of creativity in AI (as of Dec 2024)</b>
 </p>
 
 <div align="center">
@@ -106,12 +106,6 @@
 For more information, check out our [paper](https://arxiv.org/abs/2410.17218).
 
 ## Creativity
-1. **[Can AI Be as Creative as Humans?](https://arxiv.org/abs/2401.01623)**
-
-    *Haonan Wang, James Zou, Michael Mozer, Anirudh Goyal, Alex Lamb, Linjun Zhang, Weijie J Su, Zhun Deng, Michael Qizhe Xie, Hannah Brown, Kenji Kawaguchi*
-
-    <u>ArXiv.</u> 2024
-
 1. **[Artificial Intelligence \& Creativity: A Manifesto for Collaboration](https://api.semanticscholar.org/CorpusID:259480496)**
 
     *Florent Vinchon, Todd Lubart, Sabrina Bartolotta, Valentin Gironnay, Marion Botella, Samira Bourgeois-Bougrine, Jean-Marie Burkhardt, Nathalie Bonnardel, Giovanni Emanuele Corazza, Vlad Petre Glăveanu, Michael Hanchett Hanson, Zorana Ivcevic, Maciej Karwowski, J. Kaufman, Takeshi Okada, Roni Reiter‐Palmon, Andrea Gaggioli*
@@ -233,7 +227,19 @@ For more information, check out our [paper](https://arxiv.org/abs/2410.17218).
     *Surabhi S. Nath, Peter Dayan, Claire Stevenson*
 
     <u>International Conference on Computational Creativity</u> 2024
-  
+
+1. **[Steering Large Language Models to Evaluate and Amplify Creativity](https://arxiv.org/abs/2412.06060)**
+
+    *Matthew Lyle Olson, Neale Ratzlaff, Musashi Hinck, Shao-yen Tseng, Vasudev Lal*
+
+    <u>NeurIPS 2024 Workshop on Creativity & Generative AI.</u> 2024
+
+1. **[Artificial intelligence and the internal processes of creativity](https://arxiv.org/abs/2412.04366)**
+
+    *Jaan Aru*
+
+    <u>Arxiv.</u> 2024
+
 1. **[Theories of Creativity](https://www.researchgate.net/publication/358294937_Theories_of_Creativity)**
 
     *Ronald Beghetto, James Kaufman*
@@ -343,6 +349,18 @@ For more information, check out our [paper](https://arxiv.org/abs/2410.17218).
     <u>Solis Press.</u> 1926
 
 ### Evaluation
+1. **[Can AI Be as Creative as Humans?](https://arxiv.org/abs/2401.01623)**
+
+    *Haonan Wang, James Zou, Michael Mozer, Anirudh Goyal, Alex Lamb, Linjun Zhang, Weijie J Su, Zhun Deng, Michael Qizhe Xie, Hannah Brown, Kenji Kawaguchi*
+
+    <u>ArXiv.</u> 2024
+
+1. **[Large Language Models show both individual and collective creativity comparable to humans](https://arxiv.org/abs/2412.03151)**
+
+    *Luning Sun, Yuzhuo Yuan, Yuan Yao, Yanyan Li, Hao Zhang, Xing Xie, Xiting Wang, Fang Luo, David Stillwell*
+
+    <u>ArXiv.</u> 2024
+
 1. **[AI as Humanity's Salieri: Quantifying Linguistic Creativity of Language Models via Systematic Attribution of Machine Text against Web Text](https://arxiv.org/abs/2410.04265)**
 
     *Ximing Lu, Melanie Sclar, Skyler Hallinan, Niloofar Mireshghallah, Jiacheng Liu, Seungju Han, Allyson Ettinger, Liwei Jiang, Khyathi Chandu, Nouha Dziri, Yejin Choi*
@@ -1159,9 +1177,21 @@ For more information, check out our [paper](https://arxiv.org/abs/2410.17218).
     <u>Cognitive Science. Wiley Online Library.</u> 2000
 
 ## Creative Problem-Solving
+1. **[Human Creativity in the Age of LLMs: Randomized Experiments on Divergent and Convergent Thinking](https://arxiv.org/abs/2410.03703)**
+
+    *Harsh Kumar, Jonathan Vincentius, Ewan Jordan, Ashton Anderson*
+
+    <u>ArXiv.</u> 2024
+
 1. **[Creative Problem Solving in Large Language and Vision Models - What Would it Take?](https://api.semanticscholar.org/CorpusID:269502505)**
 
     *Lakshmi Nair, Evana Gizzi, Jivko Sinapov*
+
+    <u>ArXiv.</u> 2024
+
+1. **[EscapeBench: Pushing Language Models to Think Outside the Box](https://arxiv.org/abs/2412.13549)**
+
+    *Cheng Qian, Peixuan Han, Qinyu Luo, Bingxiang He, Xiusi Chen, Yuji Zhang, Hongyi Du, Jiarui Yao, Xiaocheng Yang, Denghui Zhang, Yunzhu Li, Heng Ji*
 
     <u>ArXiv.</u> 2024
 
@@ -1819,6 +1849,12 @@ For more information, check out our [paper](https://arxiv.org/abs/2410.17218).
     <u>International Joint Conference on Artificial Intelligence.</u> 1977
 
 ### Poetry
+1. **[AI-generated poetry is indistinguishable from human-written poetry and is rated more favorably](https://www.nature.com/articles/s41598-024-76900-1)**
+
+    *Brian Porter, Edouard Machery*
+
+    <u>Nature.</u> 2024
+
 #### Datasets
 1. **[The Gutenberg English Poetry Corpus: Exemplary Quantitative Narrative Analyses](https://www.frontiersin.org/journals/digital-humanities/articles/10.3389/fdigh.2018.00005)**
 
@@ -1954,6 +1990,12 @@ For more information, check out our [paper](https://arxiv.org/abs/2410.17218).
     <u></u> 1970
 
 ### Visual Creativity
+1. **[An analytic theory of creativity in convolutional diffusion models](https://arxiv.org/abs/2412.20292)**
+
+    *Mason Kamb, Surya Ganguli*
+
+    <u>ArXiv.</u> 2024
+
 1. **[Conditional Image Generation with PixelCNN Decoders](https://api.semanticscholar.org/CorpusID:14989939)**
 
     *A{\"a}ron Oord, Nal Kalchbrenner, Lasse Espeholt, Koray Kavukcuoglu, Oriol Vinyals, Alex Graves*
@@ -2662,13 +2704,19 @@ For more information, check out our [paper](https://arxiv.org/abs/2410.17218).
 
     *Chris Lu, Cong Lu, Robert Tjarko Lange, Jakob Foerster, Jeff Clune, David Ha*
 
-    <u></u> 2024
+    <u>Arxiv.</u> 2024
+
+1. **[LLMs can realize combinatorial creativity: generating creative ideas via LLMs for scientific research](https://arxiv.org/abs/2412.14141)**
+
+    *Tianyang Gu, Jingjin Wang, Zhihao Zhang, HaoHong Li*
+
+    <u>Arxiv.</u> 2024
 
 1. **[Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers](https://arxiv.org/abs/2409.04109)**
 
     *Chenglei Si, Diyi Yang, Tatsunori Hashimoto*
 
-    <u></u> 2024
+    <u>Arxiv.</u> 2024
 
 1. **[ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models](https://api.semanticscholar.org/CorpusID:269042844)**
 
